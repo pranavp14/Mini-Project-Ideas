@@ -147,5 +147,9 @@
  {
     "id": 36,
     "idea": "Fake Logo Detector"
+ },
+ {
+ "id":37,
+ "idea":"Disaster Risk Management using Image Segmentation of pre and post disaster images"
  }
 ]
