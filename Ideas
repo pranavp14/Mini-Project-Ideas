@@ -31,6 +31,7 @@
     "id": 7,
     "idea": "Vibration Analysis"
     },
+  
     {
     "id": 8,
     "idea": "Twitter clone "
@@ -42,12 +43,11 @@
   {
     "id": 10,
     "idea": "Attendence Management System"
-  },
+},
    {
     "id": 11,
     "idea": "EaseLearn"
    },
- 
   {
     "id": 12,
     "idea": "System.info"
@@ -68,7 +68,7 @@
     "id": 16,
     "idea": "Payroll Management System"
    },
-  {
+   {
     "id": 17,
     "idea": "Instagram Clone"
    },
@@ -84,21 +84,21 @@
     "id": 20,
     "idea": "WCE E-Colab"
    },
-     {
-    "id": 21,
-    "idea": "Human Pose Detection"
-    },
-    {
-      "id": 22,
-      "idea": "Blockchain based database system"
+   {
+   "id": 21,
+   "ideas": "PC Based GPS"
    },
    {
-   "id": 23,
-   "ideas": "Baby Cloud"
+   "id": 22,
+   "ideas": " Baby Cloud"
    },
     {
-    "id": 24,
-    "idea": "System.info"
+   "id": 23,
+   "ideas": "Weather app"
+   },
+   {
+   "id": 24,
+   "ideas": "Platform for skilled labour who work on daily wages like linkedin "
    },
     {
     "id": 25,
@@ -149,12 +149,43 @@
     "idea": "Fake Logo Detector"
  },
  {
-    "id": 68,
+    "id": 37,
+    "idea": "Human Pose Detection"
+    },
+    {
+      "id": 38,
+      "idea": "Blockchain based database system"
+   },
+   {
+   "id": 39,
+   "ideas": "Baby Cloud"
+   },
+    {
+    "id": 40,
+    "idea": "System.info"
+   },
+   {
+    "id": 41,
+    "idea": "Smart Home Using Arduino"
+},
+{
+ "id":42,
+ "idea":"Disaster Risk Management using Image Segmentation of pre and post disaster images"
+ },
+ {
+    "id": 43,
+    "idea": "Elections using blockchain"
+},
+{
+   "id": 44,
+   "ideas": "Augmented ecommerce website to visualize products before buying"
+   },
+{
+    "id": 45,
     "idea": "Notice Board"
 },
 {
-    "id": 69,
+    "id": 46,
     "idea": "Eventoators- Android Application To manage users event to order  stage , catering services, cakes , gift card . This application will work as mediator between user and service provider"  
 }
-
 ]
