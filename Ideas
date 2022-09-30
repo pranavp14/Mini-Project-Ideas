@@ -149,16 +149,16 @@
    },
    {
     "id": 37,
-    "idea": "Human Pose Detection"
-    },
+    "idea": "Ordering food in hotel through software and billit it automatically"
+   },
    {
       "id": 38,
       "idea": "Face Mask Detection"
    },
    {
      "id": 39,
-     "idea": "Baby Cloud"
-   },
+     "ideas": "Baby Cloud"
+},
    {
     "id": 40,
     "idea": "System.info"
@@ -242,6 +242,18 @@
  {
     "id": 60,
     "idea": "Mess management System",
-}
+},
+{
+   "id": 61,
+   "ideas": "Web Scrapping IMDB website"
+   },
+   {
+    "id": 62,
+    "idea": "Sentiment analysis through face recognition using open CV"  
+},
+{
+   "id": 63,
+   "ideas": "loginadmin"
+   }
 
 ]
