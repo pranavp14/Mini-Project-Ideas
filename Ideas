@@ -97,10 +97,6 @@
    "ideas": "Weather app"
    },
    {
-   "id": 23,
-   "ideas": "Augmented ecommerce website to visualize products before buying"
-   },
-   {
    "id": 24,
    "ideas": "Platform for skilled labour who work on daily wages like linkedin "
    },
@@ -175,5 +171,13 @@
 {
  "id":42,
  "idea":"Disaster Risk Management using Image Segmentation of pre and post disaster images"
- }
+ },
+ {
+    "id": 43,
+    "idea": "Elections using blockchain"
+},
+{
+   "id": 44,
+   "ideas": "Augmented ecommerce website to visualize products before buying"
+   },
 ]
