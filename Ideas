@@ -140,5 +140,9 @@
     "idea": "Count of people using drone technology"
     "idea": "Notice Board"
 }
-
+,
+{
+    "id": 30,
+    "idea": "Mess management System",
+}
 ]
