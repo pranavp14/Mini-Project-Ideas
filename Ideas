@@ -31,6 +31,7 @@
     "id": 7,
     "idea": "Vibration Analysis"
     },
+  
     {
     "id": 8,
     "idea": "Twitter clone "
@@ -42,7 +43,7 @@
   {
     "id": 10,
     "idea": "Attendence Management System"
-  },
+},
    {
     "id": 11,
     "idea": "EaseLearn"
@@ -69,7 +70,7 @@
     "id": 16,
     "idea": "Payroll Management System"
    },
-  {
+   {
     "id": 17,
     "idea": "Instagram Clone"
    },
@@ -89,20 +90,16 @@
    "id": 21,
    "ideas": "PC Based GPS"
    },
-    {
-      "id":22,
-      "idea":"Blockchain based database system"
+   {
+   "id": 22,
+   "ideas": "Acedemic Timetable generator(AI - ML project)"
    },
    {
    "id": 23,
-   "ideas": " Baby Cloud"
-   },
-    {
-    "id": 24,
-    "idea": "System.info"
+   "ideas": "Augmented ecommerce website to visualize products before buying"
    },
    {
-    "id": 25,
-    "idea": "Subjective Answer Evaluation using Natural Language Processing"
-}
+   "id": 24,
+   "ideas": "Platform for skilled labour who work on daily wages like linkedin "
+   }
 ]
