@@ -203,5 +203,10 @@
 {
    "id": 50,
    "ideas": "Web Scrapping IMDB website"
-   }
+   },
+   {
+    "id": 51,
+    "idea": "Sentiment analysis through face recognition using open CV"  
+}
+
 ]
