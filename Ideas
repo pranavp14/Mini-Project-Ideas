@@ -106,11 +106,6 @@
     "id": 24,
     "idea": "System.info"
    },
- {
-    "id": 17,
-    "idea": "Project Manajment system"
-
-   },
    {
     "id": 16,
     "idea": "Whatsapp bot"
@@ -122,6 +117,11 @@
 {
     "id": 26,
     "idea": "Subjective Answer Evaluation using Natural Language Processing"
+},
+{
+    "id": 27,
+    "idea": "Elections using blockchain"
 }
+
 
 ]
