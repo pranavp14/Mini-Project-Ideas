@@ -258,7 +258,11 @@
 {
    "id": 64,
    "ideas": "loginadmin"
-   }
+   },
+{
+   "id": 65,
+   "ideas": "Mathematical expressions parser and evaluator"
+   } 
 
 
 ]
