@@ -31,6 +31,7 @@
     "id": 7,
     "idea": "Vibration Analysis"
     },
+  
     {
     "id": 8,
     "idea": "Twitter clone "
@@ -42,12 +43,11 @@
   {
     "id": 10,
     "idea": "Attendence Management System"
-  },
+},
    {
     "id": 11,
     "idea": "EaseLearn"
    },
- 
   {
     "id": 12,
     "idea": "System.info"
@@ -68,7 +68,7 @@
     "id": 16,
     "idea": "Payroll Management System"
    },
-  {
+   {
     "id": 17,
     "idea": "Instagram Clone"
    },
@@ -84,21 +84,21 @@
     "id": 20,
     "idea": "WCE E-Colab"
    },
-     {
-    "id": 21,
-    "idea": "Human Pose Detection"
-    },
-    {
-      "id": 22,
-      "idea": "Blockchain based database system"
+   {
+   "id": 21,
+   "ideas": "PC Based GPS"
+   },
+   {
+   "id": 22,
+   "ideas": "Acedemic Timetable generator(AI - ML project)"
    },
    {
    "id": 23,
-   "ideas": "Baby Cloud"
+   "ideas": "Augmented ecommerce website to visualize products before buying"
    },
-    {
-    "id": 24,
-    "idea": "System.info"
+   {
+   "id": 24,
+   "ideas": "Platform for skilled labour who work on daily wages like linkedin "
    },
     {
     "id": 25,
@@ -147,5 +147,21 @@
  {
     "id": 36,
     "idea": "Fake Logo Detector"
- }
+ },
+ {
+    "id": 37,
+    "idea": "Human Pose Detection"
+    },
+    {
+      "id": 38,
+      "idea": "Blockchain based database system"
+   },
+   {
+   "id": 39,
+   "ideas": "Baby Cloud"
+   },
+    {
+    "id": 40,
+    "idea": "System.info"
+   }
 ]
