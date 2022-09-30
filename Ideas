@@ -150,15 +150,15 @@
  },
  {
     "id": 37,
-    "idea": "Human Pose Detection"
-    },
-    {
-      "id": 38,
-      "idea": "Blockchain based database system"
+    "idea": "Ordering food in hotel through software and billit it automatically"
    },
    {
-   "id": 39,
-   "ideas": "Baby Cloud"
+      "id": 38,
+      "idea": "Face Mask Detection"
+   },
+   {
+     "id": 39,
+     "ideas": "Baby Cloud"
    },
     {
     "id": 40,
@@ -169,8 +169,8 @@
     "idea": "Smart Home Using Arduino"
 },
 {
- "id":42,
- "idea":"Disaster Risk Management using Image Segmentation of pre and post disaster images"
+ "id": 42,
+ "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
  },
  {
     "id": 43,
@@ -180,25 +180,28 @@
    "id": 44,
    "ideas": "Augmented ecommerce website to visualize products before buying"
    },
-{
+ {
     "id": 45,
+    "idea": "Human Pose Detection"
+  },
+{
+    "id": 46,
     "idea": "Notice Board"
 },
 {
-    "id": 46,
+    "id": 47,
     "idea": "Eventoators- Android Application To manage users event to order  stage , catering services, cakes , gift card . This application will work as mediator between user and service provider"  
-}
+},
 {
-    "id": 90,
+    "id": 48,
     "idea": "plastic is it useful or harmful"
    },
    {
-    "id": 91,
+    "id": 49,
     "idea": "global warming on earth:one of the serious issue"
    },
-]
 {
-   "id": 45,
+   "id": 50,
    "ideas": "Web Scrapping IMDB website"
-   },
+   }
 ]
