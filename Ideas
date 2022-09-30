@@ -150,10 +150,10 @@
    {
     "id": 37,
     "idea": "Human Pose Detection"
-   },
+    },
    {
       "id": 38,
-      "idea": "Blockchain based database system"
+      "idea": "Face Mask Detection"
    },
    {
      "id": 39,
@@ -168,10 +168,10 @@
     "idea": "Smart Home Using Arduino"
    },
   {
-    "id":42,
-    "idea":"Disaster Risk Management using Image Segmentation of pre and post disaster images"
+    "id": 42,
+    "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
   },
-  {
+ {
     "id": 43,
     "idea": "App based on flutter for workers to list on platform"
    },
@@ -180,8 +180,8 @@
    "idea": "Weather app"
    },
   {
-  "id":45,
-  "idea":"Disaster Risk Management using Image Segmentation of pre and post disaster images"
+  "id": 45,
+  "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
   },
   {
     "id": 46,
@@ -206,6 +206,38 @@
    {
     "id": 51,
     "idea": "global warming on earth:one of the serious issue"
-   }
+   },
+ {
+    "id": 52,
+    "idea": "Human Pose Detection"
+  },
+{
+    "id": 53,
+    "idea": "plastic is it useful or harmful"
+   },
+   {
+    "id": 54,
+    "idea": "global warming on earth:one of the serious issue"
+   },
+{
+   "id": 55,
+   "ideas": "Web Scrapping IMDB website"
+   },
+   {
+    "id": 56,
+    "idea": "Sentiment analysis through face recognition using open CV"  
+},
+ {
+    "id": 57,
+    "idea": "Ordering food in hotel through software and billit it automatically"
+   },
+   {
+    "id": 58,
+     "ideas": "Baby Cloud"
+   },
+   {
+     "id": 59,
+     "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
+ }
 
 ]
