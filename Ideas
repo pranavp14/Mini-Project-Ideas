@@ -48,7 +48,6 @@
     "id": 11,
     "idea": "EaseLearn"
    },
- 
   {
     "id": 12,
     "idea": "System.info"
@@ -61,10 +60,9 @@
     "id": 14,
     "idea": "Personal AI Trainer"
    },
-     {
+   {
     "id": 15,
     "idea": "Criminal detection using Machine learning"
-
     },
     {
     "id": 16,
@@ -101,5 +99,69 @@
    {
    "id": 24,
    "ideas": "Platform for skilled labour who work on daily wages like linkedin "
+   },
+    {
+    "id": 25,
+   "ideas": "headphone jack in smartphones"
+   },
+    {
+    "id": 26,
+    "idea": "Portable Attendance System using IOT"
+   },
+   {
+     "id": 27,
+     "idea":"Note taking App",
+   },
+   {
+   "id": 28,
+    "idea": "Parallel Algorithm Visualizer"
+   },
+ {
+    "id": 29,
+    "idea": "Project Manajment system"
+   },
+   {
+    "id": 30,
+    "idea": "Whatsapp bot"
+   },
+   {
+    "id": 31,
+    "idea": "Google maps clone for college campus navigation"
+   },
+{
+    "id": 32,
+    "idea": "Subjective Answer Evaluation using Natural Language Processing"
+},
+{
+    "id": 33,
+    "idea": "Online exam portal using blockchain technolgy"
+   },
+{
+    "id": 34,
+    "idea": "land registry system using blockchain"
+},
+{
+    "id": 35,
+    "idea": "Count of people using drone technology"
+},
+ {
+    "id": 36,
+    "idea": "Fake Logo Detector"
+ },
+ {
+    "id": 37,
+    "idea": "Human Pose Detection"
+    },
+    {
+      "id": 38,
+      "idea": "Blockchain based database system"
+   },
+   {
+   "id": 39,
+   "ideas": "Baby Cloud"
+   },
+    {
+    "id": 40,
+    "idea": "System.info"
    }
 ]
