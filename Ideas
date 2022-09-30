@@ -244,7 +244,16 @@
    "idea": "Mess management System"
 },
 {
-   "id": 61,
+   "id": 64,
+   "ideas": "loginadmin"
+   },
+   
+   {
+   "id": 65,
+   "ideas": "face id attendence system"
+   },
+
+{   "id": 61,
    "idea": "Network Traffic Analyser"
 },
 {
