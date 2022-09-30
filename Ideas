@@ -258,7 +258,12 @@
 {
    "id": 64,
    "ideas": "loginadmin"
-   }
+   },
+   
+   {
+   "id": 65,
+   "ideas": "face id attendence system"
+   },
 
 
 ]
