@@ -194,7 +194,7 @@
    {
     "id": 48,
     "idea": "Notice Board"
-   },
+},
    {
     "id": 49,
     "idea": "Eventoators- Android Application To manage users event to order  stage , catering services, cakes , gift card . This application will work as mediator between user and service provider"  
@@ -238,6 +238,10 @@
    {
      "id": 59,
      "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
- }
+ },
+ {
+    "id": 60,
+    "idea": "Mess management System",
+}
 
 ]
