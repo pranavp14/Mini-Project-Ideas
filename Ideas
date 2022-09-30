@@ -101,7 +101,7 @@
    },
    {
     "id": 25,
-   "idea": "headphone jack in smartphones"
+    "idea": "headphone jack in smartphones"
    },
    {
     "id": 26,
@@ -156,8 +156,8 @@
       "idea": "Blockchain based database system"
    },
    {
-   "id": 39,
-   "idea": "Baby Cloud"
+     "id": 39,
+     "idea": "Baby Cloud"
    },
    {
     "id": 40,
@@ -178,5 +178,34 @@
    {
    "id": 44,
    "idea": "Weather app"
+   },
+  {
+  "id":45,
+  "idea":"Disaster Risk Management using Image Segmentation of pre and post disaster images"
+  },
+  {
+    "id": 46,
+    "idea": "Elections using blockchain"
+  },
+  {
+   "id": 47,
+   "idea": "Augmented ecommerce website to visualize products before buying"
+   },
+   {
+    "id": 48,
+    "idea": "Notice Board"
+   },
+   {
+    "id": 49,
+    "idea": "Eventoators- Android Application To manage users event to order  stage , catering services, cakes , gift card . This application will work as mediator between user and service provider"  
+   },
+   {
+    "id": 50,
+    "idea": "plastic is it useful or harmful"
+   },
+   {
+    "id": 51,
+    "idea": "global warming on earth:one of the serious issue"
    }
+
 ]
