@@ -7,7 +7,7 @@
     "id": 1,
     "idea": "Distributed Point of Sale System"
    }, 
-  {
+   {
     "id": 2,
     "idea": "Face ditection portal"
    },
@@ -27,12 +27,11 @@
     "id": 6,
     "idea": "Attendance using QR-Code"
    },
-    {
+   {
     "id": 7,
     "idea": "Vibration Analysis"
     },
-  
-    {
+   {
     "id": 8,
     "idea": "Twitter clone "
    },
@@ -40,15 +39,15 @@
     "id": 9,
     "idea": "Disaster Management using jerks"
    },
-  {
+   {
     "id": 10,
     "idea": "Attendence Management System"
-},
+   },
    {
     "id": 11,
     "idea": "EaseLearn"
    },
-  {
+   {
     "id": 12,
     "idea": "System.info"
    },
@@ -63,8 +62,8 @@
    {
     "id": 15,
     "idea": "Criminal detection using Machine learning"
-    },
-    {
+   },
+   {
     "id": 16,
     "idea": "Payroll Management System"
    },
@@ -76,7 +75,7 @@
     "id": 18,
     "idea": "Sentimental Analysis"
    },
-     {
+   {
     "id": 19,
     "idea": "Github clone"
    },
@@ -86,25 +85,25 @@
    },
    {
    "id": 21,
-   "ideas": "PC Based GPS"
+   "idea": "PC Based GPS"
    },
    {
    "id": 22,
-   "ideas": " Baby Cloud"
+   "idea": " Baby Cloud"
    },
-    {
+   {
    "id": 23,
-   "ideas": "Weather app"
+   "idea": "Augmented ecommerce website to visualize products before buying"
    },
    {
    "id": 24,
-   "ideas": "Platform for skilled labour who work on daily wages like linkedin "
+   "idea": "Platform for skilled labour who work on daily wages like linkedin "
    },
-    {
+   {
     "id": 25,
-   "ideas": "headphone jack in smartphones"
+    "idea": "headphone jack in smartphones"
    },
-    {
+   {
     "id": 26,
     "idea": "Portable Attendance System using IOT"
    },
@@ -116,7 +115,7 @@
    "id": 28,
     "idea": "Parallel Algorithm Visualizer"
    },
- {
+   {
     "id": 29,
     "idea": "Project Manajment system"
    },
@@ -128,85 +127,117 @@
     "id": 31,
     "idea": "Google maps clone for college campus navigation"
    },
-{
+   {
     "id": 32,
     "idea": "Subjective Answer Evaluation using Natural Language Processing"
-},
-{
+   },
+   {
     "id": 33,
     "idea": "Online exam portal using blockchain technolgy"
    },
-{
+   {
     "id": 34,
     "idea": "land registry system using blockchain"
-},
-{
+   },
+   {
     "id": 35,
     "idea": "Count of people using drone technology"
-},
- {
+   },
+   {
     "id": 36,
     "idea": "Fake Logo Detector"
- },
- {
-    "id": 37,
-    "idea": "Ordering food in hotel through software and billit it automatically"
    },
+   {
+    "id": 37,
+    "idea": "Human Pose Detection"
+    },
    {
       "id": 38,
       "idea": "Face Mask Detection"
    },
    {
      "id": 39,
-     "ideas": "Baby Cloud"
+     "idea": "Baby Cloud"
    },
-    {
+   {
     "id": 40,
     "idea": "System.info"
    },
    {
     "id": 41,
     "idea": "Smart Home Using Arduino"
-},
-{
- "id": 42,
- "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
- },
+   },
+  {
+    "id": 42,
+    "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
+  },
  {
     "id": 43,
-    "idea": "Elections using blockchain"
-},
-{
-   "id": 44,
-   "ideas": "Augmented ecommerce website to visualize products before buying"
+    "idea": "App based on flutter for workers to list on platform"
    },
- {
-    "id": 45,
-    "idea": "Human Pose Detection"
+   {
+   "id": 44,
+   "idea": "Weather app"
+   },
+  {
+  "id": 45,
+  "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
   },
-{
+  {
     "id": 46,
-    "idea": "Notice Board"
-},
-{
-    "id": 47,
-    "idea": "Eventoators- Android Application To manage users event to order  stage , catering services, cakes , gift card . This application will work as mediator between user and service provider"  
-},
-{
+    "idea": "Elections using blockchain"
+  },
+  {
+   "id": 47,
+   "idea": "Augmented ecommerce website to visualize products before buying"
+   },
+   {
     "id": 48,
-    "idea": "plastic is it useful or harmful"
+    "idea": "Notice Board"
    },
    {
     "id": 49,
-    "idea": "global warming on earth:one of the serious issue"
+    "idea": "Eventoators- Android Application To manage users event to order  stage , catering services, cakes , gift card . This application will work as mediator between user and service provider"  
    },
-{
-   "id": 50,
-   "ideas": "Web Scrapping IMDB website"
+   {
+    "id": 50,
+    "idea": "plastic is it useful or harmful"
    },
    {
     "id": 51,
+    "idea": "global warming on earth:one of the serious issue"
+   },
+ {
+    "id": 52,
+    "idea": "Human Pose Detection"
+  },
+{
+    "id": 53,
+    "idea": "plastic is it useful or harmful"
+   },
+   {
+    "id": 54,
+    "idea": "global warming on earth:one of the serious issue"
+   },
+{
+   "id": 55,
+   "ideas": "Web Scrapping IMDB website"
+   },
+   {
+    "id": 56,
     "idea": "Sentiment analysis through face recognition using open CV"  
-}
+},
+ {
+    "id": 57,
+    "idea": "Ordering food in hotel through software and billit it automatically"
+   },
+   {
+    "id": 58,
+     "ideas": "Baby Cloud"
+   },
+   {
+     "id": 59,
+     "idea": "Disaster Risk Management using Image Segmentation of pre and post disaster images"
+ }
 
 ]
