@@ -275,11 +275,15 @@
   {
   "id": 65,
   "ideas": "Campus Navigation"
-  }
+  },
+  {
+  "id": 66,
+  "ideas": "Accident Avoidation using IOT and ML"
+  },
+
   {
   "id": 66,
   "ideas": "Placement Automation System for college"
   }
-
 
 ]
