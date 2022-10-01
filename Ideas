@@ -300,8 +300,12 @@
   "ideas": "app for farmers about market rates of any vegetable all over nation"
   },
   {
-  "id": 114,
+  "id": 115,
   "ideas": "Weather Prediction"
+  },
+  {
+  "id": 116,
+  "ideas": "House Price Prediction according to locality"
   },
 
 ]
