@@ -273,44 +273,52 @@
     "ideas": "Mathematical expressions parser and evaluator"
     },
     {
-    "id": 65,
+    "id": 66,
     "ideas": "Campus Navigation"
     },
   
   {
-    "id": 66,
+    "id": 67,
     "ideas": "travel website using blockchain"
   },
     {
-    "id": 66,
-  
+    "id": 68,
     "ideas": "App based on event management for organization"
-    },{
-  
+    },
+    {
+    "id": 69
     "ideas": "Accident Avoidation using IOT and ML"
     },
   
     {
-    "id": 66,
+    "id": 70,
     "ideas": "Placement Automation System for college"
   
     },
     {
-    "id": 114,
+    "id": 71,
     "ideas": "app for farmers about market rates of any vegetable all over nation"
     },
     {
-    "id": 115,
+    "id": 72,
     "ideas": "Weather Prediction"
     },
     {
-    "id": 116,
+    "id": 73,
     "ideas": "House Price Prediction according to locality"
     },
     {
-    "id": 130,
+    "id": 74,
     "ideas": "Water Management System"
-    }
+    },
+    {
+  "id": 75,
+  "ideas": "House Price Prediction according to locality"
+  },
+  {
+  "id": 76,
+  "ideas": "carbon foot prints detection"
+  }
   
-  ]
+ ]
   
