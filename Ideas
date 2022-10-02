@@ -286,7 +286,7 @@
     "ideas": "App based on event management for organization"
     },
     {
-    "id": 69
+    "id": 69,
     "ideas": "Accident Avoidation using IOT and ML"
     },
   
@@ -317,10 +317,45 @@
   },
   {
 
-  "id": 117,
+  "id": 76,
   "ideas": "Mini conveyor belt using geneva mechanism"
   },
- 
+  {
+  "id": 77,
+  "ideas": "Resume Builder Application"
+  },
+  {
+  "id": 78,
+  "ideas": "Encripted Chat Application"
+  },
+  {
+  "id": 79,
+  "ideas": "Gym Management System"
+  },
+  {
+  "id": 80,
+  "ideas": "Spam main Prediction"
+  },
+  {
+  "id": 81,
+  "ideas": "Video Chat Application"
+  },
+  {
+  "id": 82,
+  "ideas": "Learning Management System"
+  },
+  {
+  "id": 83,
+  "ideas": "Voice to text translator"
+  },
+  {
+  "id": 84,
+  "ideas": "Chatbot"
+  },
+  {
+  "id": 85,
+  "ideas": "Algorithms Visualizer"
+  }
   
  ]
   
