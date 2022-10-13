@@ -290,7 +290,7 @@
     "ideas": "App based on event management for organization"
     },
     {
-    "id": 69
+    "id": 69,
     "ideas": "Accident Avoidation using IOT and ML"
     },
   
@@ -325,26 +325,55 @@
   "ideas": "Mini conveyor belt using geneva mechanism"
   },
   {
-
   "id": 77,
+  "ideas": "Resume Builder Application"
+  },
+  {
+  "id": 78,
+  "ideas": "Encripted Chat Application"
+  },
+  {
+  "id": 79,
+  "ideas": "Gym Management System"
+  },
+  {
+  "id": 80,
+  "ideas": "Spam main Prediction"
+  },
+  {
+  "id": 81,
+  "ideas": "Video Chat Application"
+  },
+  {
+  "id": 82,
+  "ideas": "Learning Management System"
+  },
+  {
+  "id": 83,
+  "ideas": "Voice to text translator"
+  },
+  {
+  "id": 84,
+  "ideas": "Chatbot"
+  },
+  {
+  "id": 85,
+  "ideas": "Algorithms Visualizer"
+  },
+{
+  "id": 86,
   "ideas": "Sonar water level meter"
   },
   {
-
-  "id": 78,
+  "id": 87,
   "ideas": "Design and Development of Quadcopter for Sanitization and Spraying Pestisides, Sophos automaatic login exe"
   },
-
   {
-
-  "id": 79,
+  "id": 88,
   "ideas": "Dream 11 Team Prediction using legacy data"
   },
-  
-  
-
    {
-  "id": 79,
+  "id": 89,
   "ideas": "Home Automation Using Arduino"
   }
 
