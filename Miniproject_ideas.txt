@@ -1,0 +1,334 @@
+[
+	{
+		"id":0,
+		"idea": "Municipal Corporation Online Complain box Application"
+	},
+	{
+		"id":1,
+		"idea": "Web Scraper With Python"
+	},
+	{
+		"id":2,
+		"idea": "Breakout Ball Game" 
+	},
+	{
+		"id":3,
+		"idea": "Price Comparison of Wishlist Product"
+	},
+	{
+		"id":4,
+		"idea": "Car Rental System"	
+	},	
+	{
+		"id":5,
+		"idea": "Telecom Billing Sysytem"	
+	},
+	{
+		"id":6,
+		"idea": "Cursor Movement on Object Motion"
+	},
+	{
+		"id":7,
+		"idea": "E-mail or Content Generator"
+	},
+	{
+		"id":8,
+		"idea": "Home Waste Management Application"   //ordering vehicle for collecting waste
+	},
+	{
+		"id":9,
+		"idea": "E-commerce for Artisans"
+	},
+	{
+		"id":10,
+		"idea": "AI Based Coding Assistant - Explaining Code
+						   - Generating COde "
+	},
+	{
+		"id":11,
+		"idea": "Resume Builder Web Application"
+	},
+	{
+		"id":12,
+		"idea": "Auto Text Summarization Tool"
+	},
+	{
+		"id":13,
+		"idea": "Web Based Meeting Scheduler"
+	},
+	{
+		"id":14,
+		"idea": "Online Course Portal for a Campus"
+	},
+	{
+		"id":15,
+		"idea": "Video Summarization Tool Using Deep Learning"
+	},
+	{
+		"id":16,
+		"idea": "Creating a Messenger App That Uses Technology of Bluetooth"
+	},
+	{
+		"id":17,
+		"idea": "Fingerprint System in ATM"
+	},
+	{
+		"id":18,
+		"idea": "Clothing Store Mnagement System"  
+	},
+	{
+		"id":19,
+		"idea": "Cashflow Manager Application"  
+	},
+	{
+		"id":20,
+		"idea": "Notes and Passward Manager"  
+	},
+	{
+		"id":21,
+		"idea": "Visualising and forecasting stocks using Dash"  
+	},
+	{
+		"id":22,
+		"idea": "Email Alert on Whatapp"
+	},
+	{
+		"id":23,
+		"idea": "Management System for E-Healthcare"   
+	},
+	{
+		"id":24,
+		"idea": "Web based Address Book"
+	},
+	{
+		"id":25,
+		"idea": "Social Network System for Job Placement"  
+	},
+	{
+		"id":26,
+		"idea": "Tax Collector App"
+	},
+	{
+		"id":27,
+		"idea": "Graphical Passsword Strategy Project"  
+	},
+	{
+		"id":28,
+		"idea": "Resume Builder Web Application"
+	},
+	{
+		"id":29,
+		"idea": "Fake Review Identification"  
+	},
+	{
+		"id":30,
+		"idea": "Wi-Fi Based Mobile Quiz"   
+	},
+	{
+		"id":31,
+		"idea": "Smart Traffic Management System"
+	},
+	{
+		"id":32,
+		"idea": "Distributed learning Management System"  
+	},
+	{
+		"id":33,
+		"idea": "Design and Development of Speed Cash System"   
+	},
+	{
+		"id":34,
+		"idea": "Duplicate Text Checker"   
+	},
+	{
+		"id":35,
+		"idea": "Desktop Notifier App"    
+	},
+	{
+		"id":36,
+		"idea": "Customer's Virtual Wallet"  
+	},
+	{
+		"id":37,
+		"idea": "Product Rating According to Customer Review"  
+	},
+	{
+		"id":38,
+		"idea": "Price Comparison Extension"  
+	},
+	{
+		"id":39,
+		"idea": "Online eBook Marker"  
+	},
+	{
+		"id":40,
+		"idea": "Unique ID (UID) Management System Project"  
+	},
+	{
+		"id":41,
+		"idea": "Battery Optimizer for Android Mobile Devices"    
+	},
+	{
+		"id":42,
+		"idea": "Site Connectivity Checker"  
+	},
+	{
+		"id":43,
+		"idea": "Bug Tracking System"  
+	},
+	{
+		"id":44,
+		"idea": "Credit Card Reader with Face Recognition Based On  Webcam"  
+	},
+	{
+		"id":45,
+		"idea": "Recognition of Human Behavior by Using the WiFi Channel State Information"
+	},
+	{
+		"id":46
+		"idea": "Online Voting Using Bluetooth Enabled Mobile Devices"  
+	},
+	{
+		"id":47,
+		"idea": "Detecting Pneumonia by Using Artifical Intelligence"
+	},
+	{
+		"id":48,
+		"idea": "Design and Implementation of E Secure Transaction"   
+	},
+	{
+		"id":49,
+		"idea": "Advanced Reliable Real Estate Portal"  
+	},
+	{
+		"id":50,
+		"idea": "Fingerprint Verification System based on a Correction  
+	},
+	{
+		"id":51,
+		"idea": "Android App for Tourist Guide"  
+	},
+	{
+		"id":52,
+		"idea": "Secure Online Auction Potal Project"  
+	},
+	{
+		"id":53,
+		"idea": "Content Aggregator"  
+	},
+	{
+		"id":54,
+		"idea": "Language Translation from Audio to Sign"  
+	},
+	{
+		"id":55,
+		"idea": "Predicting and Analysis of the Stock Market"
+	},
+	{
+		"id":56,
+		"idea": "Image Analyze Using OpenCV Program of Python"   
+	},
+	{
+		"id":57,
+		"idea": "On-Demand Remote PC Monitoring System Through Internet"  
+	},
+	{
+		"id":58,
+		"idea": "Cloud Data Collection in Vehicular Transportation System"   
+	},
+	{
+		"id":59,
+		"idea": "Time Tracking System based on Web using Oracle Database"   
+	},
+	{
+		"id":60,
+		"idea": "Plagiarism Checker"  
+	},
+	{
+		"id":61,
+		"idea": "Farming Assistance Web Service"  
+	},
+	{
+		"id":62,
+		"idea": "Optical Character Recognition (OCR) System"
+	},
+	{
+		"id":63,
+		"idea": "Online AI Shopping With M-Wallet System"   
+	},
+	{
+		"id":64,
+		"idea": "Visual Cryptography" (Image Encryption and Decryption)   
+	},
+	{
+		"id":65,
+		"idea": "Symbol recognition"   
+	},
+	{
+		"id":66,
+		"idea": "Android AI Diet Consultant"
+	},
+	{
+		"id":67,
+		"idea": "Pre Touch Sensing with Sea Shell Effect"   
+	},
+	{
+		"id":68,
+		"idea": "Online Fake Logo Detection System"
+	},
+	{
+		"id":69,
+		"idea": "Student Attendance by Using Fingerprint Reader"
+	},
+	{
+		"id":70,
+		"idea": "Supply Chain Management System Based on Distributed Component Router"  
+	},
+	{
+		"id":0,
+		"idea": "E plastic Management System"
+	},
+	{
+		"id":71,
+		"idea": "Online Crime Reporting System"  
+	},
+	
+	{
+		"id":72,
+		"idea": "Automatic Time Table Software Generator System"
+	},
+	{
+		"id":73,
+		"idea": "Price Predictor of Flight Ticket"   
+	},
+	{
+		"id":74,
+		"idea": "Advance Automatically Answers Checking Project"
+	},
+	
+	{
+		"id":75,
+		"idea": "Anti-Virus Application for Android"   
+	},
+	{
+		"id":76,
+		"idea": "Management System for Supply Chain"  
+	},
+	{
+		"id":77,
+		"idea": "Written Articles Summarizing in Technical Text"
+	},
+	{
+		"id":78,
+		"idea": "Passport Status Tracking System"
+	},
+	{
+		"id":79,
+		"idea": "Automated Patient And Doctor Handling System"
+
+	},
+	{
+		"id":80,
+		"idea": "Creating a Messenger App That Uses Technology of Bluetooth"   
+	},
+]
